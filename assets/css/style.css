@@ -1639,3 +1639,10 @@ section {
   width: 350px;
   margin-bottom: 20px;
 }
+.right{
+  text-align: right;
+}
+.btn-right{
+  float: right;
+  align-self: flex-end;
+}
